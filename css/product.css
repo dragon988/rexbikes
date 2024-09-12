@@ -1,0 +1,190 @@
+.product-template .nav_scroll a{
+    color: #222;
+}
+
+
+.product-main{
+    padding: 8rem 0 6rem;
+    position: relative;
+    background: #f0f0f0;
+}
+.product-main:after{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -1px;
+    bottom: -1px;
+    pointer-events: none;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: 1;
+}
+.product-main:after {
+    content: '';
+    background-image: url('https://cdn.shopify.com/s/files/1/0792/2244/0271/files/bottom-product-bg.svg?v=1725860694');
+    background-position: bottom;
+}
+.product-title{
+    margin-bottom: 30px;
+}
+.product-main .description hr{
+    margin: 20px 0;
+    border-top: 1px solid #666;
+}
+.product-main .description p{
+    color: #222;
+    margin-bottom: 30px;
+}
+.product-main .description p .redTxt{
+    color: #e70014;
+}
+.product-image{
+    margin-bottom:  30px;
+}
+.product-image img{
+    width: 100%;
+}
+.product-rightDetail{
+    padding-left: 3rem;
+}
+.product-thumbnail .owl-prev{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+.product-thumbnail .owl-next{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+.product-thumbnail .owl-prev,
+.product-thumbnail .owl-next{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    background: #fff;
+    transition: all .35s;
+}
+.product-thumbnail .owl-prev.disabled,
+.product-thumbnail .owl-next.disabled {
+    opacity: 0;
+    transition: all .35s;
+}
+.thumbnail-block img{
+    width: 100%;
+}
+
+.product-specs{
+    margin-bottom: 6rem;
+}
+.graphics-info{
+    background: #e8e8e8;
+    margin-bottom: 6rem;
+}
+.graphics-info .info-item{
+    align-items: center;
+}
+.graphics-info div img{
+    width: 100%;
+    background: #fff;
+}
+
+
+.product-detail-info .video{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 6rem;
+}
+.specs-content{
+    border: 1px solid #000;
+}
+.specs-content .tab-content{
+    padding: 0 2rem 2rem;
+}
+.specs-content ul.nav{
+    border-bottom: 1px solid #000;
+}
+.specs-content ul.nav li{
+    width: 25%;
+    border-right: 1px solid #000;
+}
+.specs-content ul.nav li:last-child {
+    border: none;
+}
+.specs-content ul.nav li button{
+    border-radius: 0;
+    width: 100%;
+    color: #222;
+    padding: 1rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.specs-content ul.nav li button.active{
+    background: #000;
+    font-weight: 500;
+}
+.specs-content ul.nav li button svg{
+    width: 35px;
+    height: 35px;
+    margin-right: 1rem;
+}
+.specs-content ul.nav li button.active .st00,
+.specs-content ul.nav li button.active .st11 {
+    stroke: #fff;
+    stroke-width: 2;
+}
+.specs-content ul.nav li button.active svg{
+    fill: #fff;
+}
+.specs-content ul.nav li button.active svg g g path:last-child{
+    fill: #222;
+}
+
+.w33{
+    width: 33%;
+}
+.w66{
+    width: 66%;
+}
+.specs-info li{
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 1rem;
+    padding: 0 .25rem .25rem;
+}
+.specs-info li .button a{
+    padding: 12px 25px;
+}
+.tab-content-info div img{
+    width: 100%;
+}
+
+@media only screen and (max-width: 789px) {
+    .product-rightDetail{
+        padding: 0;
+    }
+    .graphics-info .info-item div.h5:last-child{
+        margin: 2rem 0;
+        font-size: 16px;
+    }
+    .specs-content ul.nav li button{
+        flex-wrap: wrap;
+        height: 100%;
+    }
+    .specs-content ul.nav li button svg{
+        margin-right: 0;
+        width: 100%;
+    }
+    .w33{
+        width: 40%;
+    }
+    .w66{
+        width: 60%;
+    }
+}
+

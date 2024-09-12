@@ -1,0 +1,130 @@
+.darkmode {
+  background-color: rgb(10, 10, 10);
+  color: rgb(255, 255, 255);
+  transition: 0.5s;
+}
+
+.darkmode h1 {
+  color: #fff !important;
+}
+
+.darkmode h2 {
+  color: #fff !important;
+}
+
+.darkmode h3 {
+  color: #fff !important;
+}
+
+.darkmode h4 {
+  color: #fff !important;
+}
+
+.darkmode h4 a {
+  color: #fff !important;
+}
+
+.darkmode h5 {
+  color: #fff !important;
+}
+
+.darkmode p {
+  color: #fff !important;
+}
+
+.darkmode .tag-item a {
+  color: #fff !important;
+}
+
+.darkmode .about-content ul li,
+.darkmode .pricing-boody ul li,
+.darkmode .calendar .days li,
+.darkmode .calendar .weeks li {
+  color: #fff !important;
+}
+
+.darkmode .subscribe-form input::placeholder,
+.darkmode .blog-list-left input::placeholder,
+.darkmode .form-box input::placeholder,
+.darkmode .form-box textarea::placeholder,
+.darkmode .blog-forms input::placeholder {
+  color: #fff !important;
+}
+
+.darkmode blockquote {
+  color: #fff !important;
+}
+
+.darkmode .prossess-ber-plugin span {
+  color: #fff !important;
+}
+
+.darkmode .recent-post-item ul li a {
+  color: #fff !important;
+}
+
+.darkmode hr.style-3,
+.darkmode .section-item p {
+  border-color: #dcd6d6;
+}
+
+.darkmode .feature-single-box:hover .feature-content h4,
+.darkmode .feature-single-box:hover .feature-content p {
+  color: rgb(10, 10, 10) !important;
+}
+
+.darkmode .service-section,
+.darkmode .team-section,
+.darkmode .brand-section,
+.darkmode .service-details-section,
+.darkmode .blog-details-section {
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .team-single-box {
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .blog-single-box,
+.darkmode .pricing-single-box {
+  background-color: rgb(10, 10, 10);
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .subscribe-form input {
+  background-color: rgb(10, 10, 10);
+  color: #fff;
+}
+
+.darkmode .service-details-section .owl-next i,
+.darkmode .service-details-section .owl-prev i,
+.darkmode .blog-details-section .owl-next i,
+.darkmode .blog-details-section .owl-prev i {
+  background-color: rgb(10, 10, 10);
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .contact-single-box {
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .form-box input,
+.darkmode .form-box textarea,
+.darkmode .blog-forms input {
+  background-color: rgb(10, 10, 10);
+  color: #fff;
+}
+
+.darkmode .bg-up,
+.darkmode .sec-bg {
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .abouts-content p {
+  background-color: rgb(10, 10, 10);
+}
+
+/* 
+.darkmode .contact-single-box
+
+ */

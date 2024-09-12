@@ -1,0 +1,1268 @@
+/* Normal desktop :1920px. */
+@media (min-width: 1920px) and (max-width: 1920px) {
+  p.blog-submit-button {
+    right: 320px;
+  }
+}
+
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+  .PopGo_menu > ul > li {
+    margin-left: 35px;
+  }
+
+  /*==========feature-section=============*/
+  .feature-single-box {
+    padding: 75px 6px 25px;
+  }
+
+  /*==========about-section=============*/
+  .about-thumb img {
+    width: 100%;
+  }
+
+  .about-three-section .section-title h2 {
+    font-size: 40px;
+  }
+
+  .latest-two-section .section-title h3 {
+    font-size: 40px;
+  }
+
+  p.blog-submit-button {
+    right: 85px;
+  }
+
+  /*==========subscribe-section=============*/
+
+  .subscribe-title h2 {
+    font-size: 30px;
+  }
+
+  .subscribe-form button {
+    right: 100px;
+  }
+
+  .brand-section .owl-next {
+    left: 75rem;
+  }
+
+  .breadcumb-title h1 {
+    font-size: 50px;
+  }
+
+  /*==========event-section=============*/
+  .latests-event-section .event-content p {
+    width: 100%;
+  }
+
+  .latests-event-section .style5 {
+    top: 105px;
+  }
+
+  .latests-event-section .service-button {
+    top: 285px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    font-size: 40px;
+  }
+
+  .event-content {
+    top: 428px;
+  }
+
+  .style5 {
+    top: 170px;
+  }
+
+  .latest-event-section .event-content h4 {
+    font-size: 20px;
+  }
+
+  .latest-two-section .style5 {
+    top: 145px;
+  }
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+  .PopGo_menu > ul > li {
+    margin-left: 35px;
+  }
+
+  /*========slide Area responsive===========*/
+  .slider-title h1 {
+    font-size: 50px;
+  }
+
+  .slider-title p {
+    width: 45%;
+  }
+
+  /*==========feature-section=============*/
+  .feature-single-box {
+    padding: 75px 5px 25px;
+  }
+
+  /*==========about-section=============*/
+  .about-thumb img {
+    width: 100%;
+  }
+
+  .section-title h2 {
+    font-size: 40px;
+  }
+
+  /*==========marquree-section=============*/
+  .marquee-section .marquee-block .content-box .title a {
+    font-size: 80.45px;
+  }
+
+  /*========blog Area responsive===========*/
+  .blog-content h4 a {
+    font-size: 20px;
+  }
+
+  .blog-box {
+    padding: 30px 0px 20px 15px;
+  }
+
+  /*========subscribe Area responsive===========*/
+  .subscribe-form button {
+    right: 50px;
+  }
+
+  .subscribe-title h2 {
+    font-size: 30px;
+  }
+
+  .brand-section .owl-nav {
+    display: none;
+  }
+
+  p.blog-submit-button {
+    right: 35px;
+  }
+
+  .breadcumb-title h1 {
+    font-size: 45px;
+  }
+
+  /*========event Area responsive===========*/
+  .latests-event-section .event-content p {
+    width: 100%;
+  }
+
+  .latests-event-section .style5 {
+    top: 120px;
+  }
+
+  .latests-event-section .service-button {
+    top: 290px;
+  }
+
+  .section-title h3 {
+    width: 80%;
+  }
+
+  .contact-content p {
+    font-size: 14px;
+  }
+
+  .event-content {
+    top: 435px;
+  }
+
+  .style5 {
+    top: 135px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    width: 70%;
+  }
+
+  .latest-three-section .style5 {
+    top: 200px;
+  }
+
+  .latest-two-section .style5 {
+    top: 125px;
+  }
+
+  .latest-three-section .event-content h4 {
+    font-size: 20px;
+  }
+
+  .latest-three-section .event-thumb img {
+    width: 305px;
+  }
+
+  /*========about-responsive===========*/
+  .about-section .section-title h2 {
+    font-size: 40px;
+  }
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .PopGo_menu > ul > li {
+    margin-left: 15px;
+  }
+
+  /*========silder-responsive===========*/
+  .slider-title h1 {
+    font-size: 45px;
+  }
+
+  .slider-title p {
+    width: 60%;
+  }
+
+  /*========about-responsive===========*/
+  .section-title h2 {
+    font-size: 35px;
+  }
+
+  .about-thumb img {
+    width: 100%;
+  }
+
+  .about-section .section-title h2 {
+    font-size: 30px;
+  }
+
+  .about-three-section .section-title h2 {
+    font-size: 40px;
+  }
+
+  .about-two-section .section-title h2 {
+    font-size: 35px;
+  }
+
+  .about-two-section .section-title h4 {
+    font-size: 16px;
+  }
+
+  .section-title p {
+    font-size: 13px;
+  }
+
+  /*========feature Area responsive===========*/
+
+  .feature-content h4 {
+    font-size: 20px;
+  }
+
+  .feature-single-box {
+    padding: 75px 5px 25px;
+  }
+
+  .feature-sub-title h4 {
+    font-size: 20px;
+  }
+
+  .features-single-box {
+    width: 335px;
+  }
+
+  /*==========service-section=============*/
+  .section-title h4 a {
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .service-single-box {
+    padding: 80px 20px 40px;
+  }
+
+  /*========marquee Area responsive===========*/
+  .marquee-section .marquee-block .content-box .title a {
+    font-size: 70.45px;
+  }
+
+  /*========even Area responsive===========*/
+  .event-content {
+    top: 365px;
+  }
+
+  .style5 {
+    top: 115px;
+  }
+
+  .latest-event-section .event-content h4 {
+    font-size: 20px;
+  }
+
+  .events-content h4 {
+    font-size: 20px;
+  }
+
+  .latest-two-section .section-title h3 {
+    font-size: 36px;
+  }
+
+  .latest-two-section .style5 {
+    top: 95px;
+  }
+
+  /*========event Area responsive===========*/
+  .latests-event-section .event-content p {
+    width: 100%;
+  }
+
+  .latests-event-section .style5 {
+    top: 40px;
+  }
+
+  .latest-three-section .style5 {
+    top: 140px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    font-size: 40px;
+    width: 75%;
+  }
+
+  .club-comunity-section .section-title p {
+    width: 70%;
+  }
+
+  .club-comunity-section .section-title h2 span {
+    font-size: 45px;
+  }
+
+  .latests-event-section .service-button {
+    top: 235px;
+  }
+
+  .latest-three-section .event-thumb img {
+    width: 250px;
+  }
+
+  .latest-three-section .event-content h4 {
+    font-size: 18px;
+  }
+
+  /*========testimonial Area responsive===========*/
+  .testimonial-disc p {
+    font-size: 16px;
+    width: 75%;
+  }
+
+  .brand-section .owl-nav {
+    display: none;
+  }
+
+  /*========blog Area responsive===========*/
+  .blog-box {
+    padding: 30px 0px 20px 10px;
+  }
+
+  .blog-content h4 a {
+    font-size: 20px;
+  }
+
+  p.blog-submit-button {
+    right: 6px;
+  }
+
+  .blog-forms input {
+    width: 25%;
+  }
+
+  .rpost-content h4 a {
+    font-size: 13px;
+  }
+
+  /*==========subscribe-section=============*/
+  .subscribe-title h2 {
+    font-size: 25px;
+  }
+
+  /*==========breadcumb-section=============*/
+  .breadcumb-title h1 {
+    font-size: 45px;
+  }
+
+  .section-title h3 {
+    width: 95%;
+  }
+
+  .contact-content p {
+    font-size: 13px;
+  }
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .sticky {
+    position: absolute !important;
+  }
+
+  .PopGo_nav_manu {
+    display: none;
+  }
+
+  /*========slide-responsive===========*/
+  .slider-title h1 {
+    font-size: 40px;
+  }
+
+  .slider-title p {
+    width: 70%;
+  }
+
+  /*========about-responsive===========*/
+  .about-section .about-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .section-title h2 {
+    font-size: 30px;
+  }
+
+  .about-section .section-title h2 {
+    font-size: 35px;
+  }
+
+  .about-two-section .section-title h2 {
+    font-size: 35px;
+  }
+
+  .abouts-thumb img {
+    width: 100%;
+  }
+
+  .abouts-thumb::before {
+    display: none;
+  }
+
+  /*==========feature-section=============*/
+  .feature-single-box {
+    padding: 75px 10px 25px;
+  }
+
+  .feature-sub-title h4 {
+    font-size: 20px;
+  }
+
+  /*==========service-section=============*/
+  .section-title h4 a {
+    width: 100%;
+  }
+
+  .service-single-box {
+    padding: 80px 20px 40px;
+  }
+
+  /*========marquee-responsive===========*/
+  .marquee-section .marquee-block .content-box .title a {
+    font-size: 60.45px;
+  }
+
+  h6.title i {
+    bottom: 20px;
+  }
+
+  /*==========event-section=============*/
+  .style5 {
+    top: 535px;
+  }
+
+  .latests-event-section .event-content h4 {
+    font-size: 30px;
+  }
+
+  .events-content h4 {
+    font-size: 20px;
+  }
+
+  .latest-two-section .section-title h3 {
+    font-size: 38px;
+  }
+
+  .about-three-section .section-title h2 {
+    font-size: 38px;
+  }
+
+  .club-comunity-section .section-title h2 span {
+    font-size: 40px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    font-size: 32px;
+    width: 100%;
+  }
+
+  .latest-three-section .event-single-box,
+  .latest-three-section .event-thumb {
+    margin-bottom: 30px;
+  }
+
+  .club-comunity-section .section-title p {
+    width: 100%;
+  }
+
+  .section-button.style6.mt-45 {
+    margin-bottom: 30px;
+  }
+
+  /*==========testimonial-section=============*/
+  .testimonial-disc p {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .brand-section .owl-nav {
+    display: none;
+  }
+
+  /*========blog-responsive===========*/
+  .blog-content p {
+    width: 100%;
+  }
+
+  .blog-details-section .form-button button {
+    margin-bottom: 30px;
+  }
+
+  blockquote {
+    font-size: 16px;
+  }
+
+  .blog-box {
+    padding: 30px 0px 20px 25px;
+  }
+
+  .section-title.mb-80 {
+    margin-bottom: 0;
+  }
+
+  .blog-forms {
+    margin-bottom: 30px;
+  }
+
+  .section-item {
+    right: 40px;
+  }
+
+  /*========subscribe-responsive===========*/
+  .subscribe-title h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .subscribe-form button {
+    right: 112px;
+    top: 206px;
+  }
+
+  .subscribe-form input {
+    width: 90%;
+  }
+
+  /*========breadcumb-responsive===========*/
+  .breadcumb-title h1 {
+    font-size: 45px;
+  }
+
+  .pricing-title h2 {
+    font-size: 38px;
+  }
+}
+
+/* Tablet desktop :600px. */
+@media (min-width: 600px) and (max-width: 767px) {
+  .sticky {
+    position: absolute !important;
+  }
+
+  .PopGo_nav_manu {
+    display: none;
+  }
+
+  /*========slide-responsive===========*/
+  .slider-title h1 {
+    font-size: 35px;
+    width: 80%;
+  }
+
+  .slider-title p {
+    width: 100%;
+  }
+
+  /*========about-responsive===========*/
+  .about-section .about-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .section-title h2 {
+    font-size: 30px;
+  }
+
+  .about-section .section-title h2 {
+    font-size: 30px;
+  }
+
+  .abouts-thumb img {
+    width: 100%;
+  }
+
+  .abouts-thumb::before {
+    display: none;
+  }
+
+  /*==========marquee-section=============*/
+  .marquee-section .marquee-block .content-box .title a {
+    font-size: 60.45px;
+  }
+
+  h6.title i {
+    bottom: 30px;
+  }
+
+  /*==========event-section=============*/
+  .event-content {
+    top: 400px;
+  }
+
+  .style5 {
+    top: 380px;
+  }
+
+  .latests-event-section .style5 {
+    top: 440px;
+  }
+
+  .latests-event-section .service-button {
+    top: 595px;
+  }
+
+  .latest-two-section .section-title h3 {
+    font-size: 35px;
+  }
+
+  .about-three-section .section-title h2 {
+    font-size: 35px;
+  }
+
+  .section-button.style6.mt-45 {
+    margin-bottom: 30px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    font-size: 32px;
+    width: 100%;
+  }
+
+  .club-comunity-section .section-title p {
+    width: 100%;
+  }
+
+  .club-comunity-section .section-title h2 span {
+    font-size: 32px;
+  }
+
+  .video-icon {
+    display: none;
+  }
+
+  .latest-three-section .event-single-box::before {
+    height: 95%;
+  }
+
+  .latest-three-section .event-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .latest-three-section .style5 {
+    top: 380px;
+  }
+
+  .latest-three-section .event-single-box:hover:before {
+    width: 100%;
+  }
+
+  .latest-two-section .style5 {
+    top: 320px;
+  }
+
+  /*========testimonial-responsive===========*/
+  .testimonial-disc p {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .testimonial-section .owl-dots {
+        left: 50%;
+        bottom: 0%;
+        transform: translate(-50%, 0);
+  }
+
+  /*==========blog-section=============*/
+  .blog-details-section .form-button button {
+    margin-bottom: 30px;
+  }
+
+  blockquote {
+    font-size: 16px;
+  }
+
+  .blog-forms input {
+    width: 25%;
+  }
+
+  .section-title.mb-80 {
+    margin-bottom: 0;
+  }
+
+  .blog-forms {
+    margin-bottom: 30px;
+  }
+
+  .subscribe-form input {
+    width: 90%;
+  }
+
+  /*==========brand-section=============*/
+  .brand-section .owl-nav {
+    left: -20px;
+  }
+
+  .brand-section .owl-next {
+    left: 33rem;
+  }
+
+  /*==========subscribe-section=============*/
+  .subscribe-title h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+  }
+
+  .subscribe-form button {
+    right: 100px;
+    top: 202px;
+  }
+
+  /*========breadcumb-responsive===========*/
+  .breadcumb-title h1 {
+    font-size: 40px;
+  }
+
+  .bg-up {
+    padding: 80px 15px 85px;
+  }
+
+  .pricing-title h2 {
+    font-size: 32px;
+  }
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+  .sticky {
+    position: absolute !important;
+  }
+
+  .PopGo_nav_manu {
+    display: none;
+  }
+
+  /*========slide-responsive===========*/
+  .slider-title h5 {
+    font-size: 16px;
+  }
+
+  .slider-title h1 {
+    font-size: 30px;
+    width: 90%;
+  }
+
+  .slider-title p {
+    width: 100%;
+  }
+
+  /*========about-responsive===========*/
+  .about-section .about-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .section-title h2 {
+    font-size: 30px;
+  }
+
+  .abouts-thumb img {
+    width: 100%;
+  }
+
+  .abouts-thumb::before {
+    display: none;
+  }
+
+  /*==========about-section=============*/
+  .about-section .section-title h2 {
+    font-size: 30px;
+  }
+
+  .section-title h2 {
+    font-size: 27px;
+  }
+
+  .about-disc p {
+    font-size: 16px;
+  }
+
+  /*========marquee-responsive===========*/
+  .marquee-section .marquee-block .content-box .title a {
+    font-size: 50.45px;
+  }
+
+  h6.title i {
+    bottom: 18px;
+  }
+
+  /*==========event-section=============*/
+  .event-content {
+    top: 340px;
+  }
+
+  .style5 {
+    top: 330px;
+  }
+
+  .section-button.style6.mt-45 {
+    margin-bottom: 30px;
+  }
+
+  .video-icon {
+    display: none;
+  }
+
+  .latests-event-section .style5 {
+    top: 355px;
+  }
+
+  .latests-event-section .service-button {
+    top: 510px;
+  }
+
+  .latest-two-section .section-title h3 {
+    font-size: 30px;
+  }
+
+  .about-three-section .section-title h2 {
+    font-size: 35px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    font-size: 32px;
+    width: 100%;
+  }
+
+  .club-comunity-section .section-title h2 span {
+    font-size: 32px;
+  }
+
+  .club-comunity-section .section-title p {
+    width: 100%;
+  }
+
+  .latest-three-section .event-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .latest-three-section .event-single-box::before {
+    height: 94%;
+  }
+
+  .latest-three-section .event-single-box:hover:before {
+    width: 100%;
+  }
+
+  .latest-two-section .style5 {
+    top: 270px;
+  }
+
+  /*==========testimonial-section=============*/
+  .testimonial-disc p {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .testimonial-section .owl-dots {
+        left: 50%;
+        bottom: 0%;
+        transform: translate(-50%, 0);
+  }
+
+  /*==========blog-section=============*/
+  .blog-details-section .form-button button {
+    margin-bottom: 30px;
+  }
+
+  blockquote {
+    font-size: 16px;
+  }
+
+  .subscribe-form input {
+    width: 90%;
+  }
+
+  .blogs-content h4 a {
+    font-size: 26px;
+  }
+
+  .blog-forms input {
+    width: 27%;
+  }
+
+  .section-title.mb-80 {
+    margin-bottom: 0;
+  }
+
+  .blog-forms {
+    margin-bottom: 30px;
+  }
+
+  /*==========brand-section=============*/
+  .brand-section .owl-nav {
+    left: 20px;
+  }
+
+  .brand-section .owl-next {
+    left: 25rem;
+  }
+
+  /*========subs-responsive===========*/
+  .subscribe-title h2 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+
+  .subscribe-form button {
+    right: 63px;
+    top: 193px;
+  }
+
+  /*========breadcumb-responsive===========*/
+  .breadcumb-title h1 {
+    font-size: 38px;
+  }
+
+  .section-title h3 {
+    width: 90%;
+  }
+
+  .bg-up {
+    padding: 80px 15px 85px;
+  }
+
+  .pricing-title h2 {
+    font-size: 28px;
+  }
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  /* .sticky {
+    position: absolute !important;
+  } */
+
+  .PopGo_nav_manu {
+    display: none;
+  }
+
+  /*========slide-responsive===========*/
+  .slider-title h5 {
+    font-size: 17px;
+  }
+
+  .slider-title h1 {
+    font-size: 26px;
+    width: 100%;
+  }
+
+  .slider-title p {
+    width: 100%;
+  }
+
+  .section2-button a {
+    margin: 30px 0 0 0;
+  }
+
+  /*========about-responsive===========*/
+  .about-section .about-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .about-section .section-title h2 {
+    font-size: 28px;
+  }
+
+  .section2-button p {
+    font-size: 16px;
+    margin: 30px 0 0 0;
+  }
+
+  .about-disc p {
+    font-size: 16px;
+  }
+
+  .abouts-thumb img {
+    width: 100%;
+  }
+
+  .abouts-thumb::before {
+    display: none;
+  }
+
+  .abouts-content p {
+    display: none;
+  }
+
+  /*==========feature-section=============*/
+  .section-title h2 {
+    font-size: 25px;
+  }
+
+  .feature-single-box {
+    padding: 75px 10px 25px;
+  }
+
+  .feature-content h4 {
+    font-size: 20px;
+  }
+
+  .feature-sub-title h4 {
+    font-size: 20px;
+  }
+
+  .features-single-box {
+    padding: 0 7px;
+  }
+
+  .section-title h4 a {
+    font-size: 20px;
+  }
+
+  /*==========event-section=============*/
+  .event-content {
+    top: 205px;
+  }
+
+  .latest-event-section .event-content h4 {
+    font-size: 20px;
+  }
+
+  .section-button.style6.mt-45 {
+    margin-bottom: 30px;
+  }
+
+  .video-icon {
+    display: none;
+  }
+
+  .latests-event-section .event-content h4 {
+    font-size: 30px;
+  }
+
+  .latest-two-section .section-title h3 {
+    font-size: 24px;
+  }
+
+  .about-three-section .section-title h2 {
+    font-size: 30px;
+  }
+
+  .about-three-section .rpost-content p {
+    font-size: 14px;
+  }
+
+  .latest-three-section .style5 {
+    top: 180px;
+  }
+
+  .latest-three-section .event-content h4 {
+    font-size: 22px;
+  }
+
+  .events-content h4 {
+    font-size: 22px;
+  }
+
+  .club-comunity-section .section-title h2 {
+    font-size: 25px;
+    width: 100%;
+  }
+
+  .club-comunity-section .section-title h2 span {
+    font-size: 32px;
+  }
+
+  .club-comunity-section .section-title p {
+    width: 100%;
+  }
+
+  .latest-three-section .event-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .latest-three-section .event-single-box::before {
+    height: 94%;
+  }
+
+  .latest-three-section .event-single-box:hover:before {
+    width: 100%;
+  }
+
+  /*========testimonial-responsive===========*/
+  .testimonial-disc p {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .testimonial-section .owl-dots {
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%, 0);
+  }
+
+  .brand-section .owl-nav {
+    left: 10px;
+  }
+
+  .brand-section .owl-next {
+    left: 18rem;
+  }
+
+  /*========blog-responsive===========*/
+  .blog-box {
+    padding: 30px 0px 20px 8px;
+  }
+
+  .blog-content p {
+    width: 100%;
+  }
+
+  .subscribe-form input {
+    width: 90%;
+  }
+
+  .blog-details-section .form-button button {
+    margin-bottom: 30px;
+  }
+
+  blockquote {
+    font-size: 15px;
+  }
+
+  .blogs-content h4 a {
+    font-size: 25px;
+  }
+
+  .blog-details-section .owl-nav {
+    display: none;
+  }
+
+  .blog-forms input {
+    width: 45%;
+  }
+
+  .section-title.mb-80 {
+    margin-bottom: 20px;
+  }
+
+  .blog-forms {
+    margin-bottom: 30px;
+  }
+
+  .blog-content h4 {
+    font-size: 25px;
+  }
+
+  .blog-leave-title h3 {
+    font-size: 25px;
+  }
+
+  /*========subscribe-responsive===========*/
+  .subscribe-title h2 {
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+
+  .subscribe-form button {
+    right: 47px;
+    top: 213px;
+  }
+
+  /*========marquee-responsive===========*/
+  .marquee-section .marquee-block .content-box .title a {
+    font-size: 50.45px;
+  }
+
+  /*========breadcumb-responsive===========*/
+  .breadcumb-title h1 {
+    font-size: 35px;
+  }
+
+  .section-title h3 {
+    font-size: 25px;
+    width: 100%;
+  }
+
+  .bg-up {
+    padding: 80px 15px 85px;
+  }
+
+  .pricing-title h2 {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 789px) {
+    .feature-two-section{
+        padding: 0 12px;
+    }
+    .feature-two-section .features-single-box{
+        height: 240px;
+        border-radius: 8px;
+    }
+    .feature-two-section .feature-sub-title p{
+        margin-bottom: 60px;
+    }
+    .subscribe-form input {
+        width: 100%;
+    }
+    .subscribe-form button{
+        right: 5px;
+        top: 50%;
+        transform: translate(0, -50%);
+    }
+    .footer-widget-gallery a.vbox-item{
+        display: inline-block;
+        width: 32%;
+    }
+    .footer-widget-gallery a.vbox-item{
+        margin: 0;
+    }
+      .testimonial-section .owl-dots {
+        left: 50%;
+        bottom: -20%;
+        transform: translate(-50%, 0);
+  }
+}
+
+
+
