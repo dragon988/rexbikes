@@ -90,6 +90,8 @@
 .graphics-info div img{
     width: 100%;
     background: #fff;
+    height: 400px;
+    object-fit: cover;
 }
 
 
@@ -187,4 +189,5 @@
         width: 60%;
     }
 }
+
 
